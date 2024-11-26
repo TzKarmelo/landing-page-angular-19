@@ -1,0 +1,15 @@
+.general {
+    background-color: black;
+    color: white;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    
+}
+
+.container {
+    padding-bottom: 350px;
+}
